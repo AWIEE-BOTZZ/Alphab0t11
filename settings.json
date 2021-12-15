@@ -1,18 +1,18 @@
 {
     "self_mode": false,
 	"autobio": false,
-	"antihidetag": true,
+	"antihidetag": false,
 	"user_register": false,
-	"anti_delete" : false,
+	"anti_delete" : true,
 	"anticall": false,
 	"prefix": ".",
 	"language":"ind",
-	"ownerNumber": "62887435047326",
-	"ownerNumberr": "62887435047326",
-	"cr": "@ZeeoneOfc",
-	"ownername": "ZeeoneOfc",
-	"botname":"Ａʟᴘʜᴀʙᴏᴛ",
+	"ownerNumber": "6285797064393",
+	"ownerNumberr": "6285797064393",
+	"cr": "𝙽𝚘𝚝 𝙶𝚞𝚛𝚊",
+	"ownername": "𝙽𝚘𝚝 𝙼𝚎",
+	"botname":"𝙽𝚘𝚝 𝙶𝚞𝚛𝚊",
 	"thumb":"thumbnail_1.jpg",
 	"fakethumb":"thumbnail_1.jpg", 
-	"fake": " 「  Ａʟᴘʜᴀʙᴏᴛ  」\nCreated By @ZeeoneOfc"
+	"fake": " 「  𝙽𝚘𝚝 𝙶𝚞𝚛𝚊  」"
 }
