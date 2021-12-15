@@ -77,7 +77,7 @@ exports.anlinOff = () => {
 	return `\`\`\`[ ✓ ]\`\`\` Antilink Di Nonaktifkan`
 	}
 exports.notregis = (prefix, sender) => {
-	return `Hai @${sender.split("@")[0]} kamu belum terdaftar di database, silahkan ketik ${prefix}verify\n\nKamu juga bisa daftar dengan cara mengirimkan kode verifikasi dari web api\nhttps://api-alphabot.herokuapp.com/api/verification`
+	return `Hai @${sender.split("@")[0]} kamu belum terdaftar di database, silahkan ketik ${prefix}verify`
 	}
 exports.udahregis = (pushname) => {
 	return `Hai ${pushname} kamu sudah terdaftar di database`
@@ -115,9 +115,6 @@ exports.gcClose = (command) => {
 exports.nsfwmo= () => {
 	return `Fitur nsfw belum di aktifkan, hubungi owner bot u/ mengaktifkan`
 	}
-exports.erorCode = () => {
- return `Kode yang anda masukkan salah silahkan cek kembali\nhttps://api-alphabot.herokuapp.com/api/verification`
- }
  exports.callOwner = () => {
  return `Hubungi owner untuk menggunakan fitur ini`
  }
