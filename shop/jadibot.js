@@ -14,8 +14,7 @@ return`╭──「 📖  *PRICE JADIBOT*」
 │
 │ ⤷ *Dana [Diutamakan]*
 │ ⤷ *Ovo*
-│ ⤷ *Gopay*
-│ ⤷ *Pulsa Telkom*
+│ ⤷ *Pulsa*
 │
 ├─ 「 👨‍💻  *RUN ON* 」
 │
@@ -25,7 +24,7 @@ return`╭──「 📖  *PRICE JADIBOT*」
 ├─ 「 📝  *NOTES* 」
 │
 │ ⤷ _Tidak perlu termux_
-│ ⤷ _Minat? Hubungi 0887435047326_
+│ ⤷ _Minat? Hubungi wa.me/685703155153_
 │
 ╰──「 *Thank's* 」
 `
